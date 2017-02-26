@@ -1,4 +1,5 @@
 # jendockerization
 Dockerize Jenkins
 
-![Alt text](dockercontainerization.png/g?raw=true "Title")
+[Draft Idea]i: ./dockercontainerization.png?raw
+
