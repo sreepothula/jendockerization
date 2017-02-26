@@ -1,5 +1,5 @@
 # jendockerization
 Dockerize Jenkins
 
-[Draft Idea]i: ./dockercontainerization.png?raw
+[Draft Idea]: ./dockercontainerization.png?raw
 
